@@ -47,7 +47,7 @@ const questions = [
       { question: "Dove si trova il tempio dei topi?", answers: [], correct: "India" },
       { question: "DOve si trova l'isola dei conigli?", answers: [], correct: "Sicilia/Giappone" },
       { question: "Dove si trova Pig Beach, spiaggia abitata dai maiali?", answers: [], correct: "Thailandia" },
-      { question: "Cji sono gli abitanti di Queimada Grande?", answers: [], correct: "I serpenti" }
+      { question: "Chi sono gli abitanti di Queimada Grande?", answers: [], correct: "I serpenti" }
     ],
     // Video
     [
